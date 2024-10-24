@@ -1,0 +1,20 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+} 
+
+#projects {
+    background-color: #e2edff;
+}
+.col-4 img {
+    height: 400px;
+}
+.col-md-4 a {
+    text-decoration: none;
+    font-size: 1rem;
+    color: black;
+}
+
+section {
+    padding-top: 5rem;
+}
